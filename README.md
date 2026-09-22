@@ -1,42 +1,41 @@
 # Fresher Job Search Tracker
 
-An Excel-based job application tracker designed to help freshers organize, monitor, and manage their job search in one place.
+A simple and beginner-friendly Excel-based job application tracker designed to help freshers organize, track, and manage their job search effectively.
 
-## 📌 Project Overview
+## 📌 Overview
 
-Searching for multiple jobs can become difficult when application details are spread across different websites, notes, and spreadsheets.
+The **Fresher Job Search Tracker** helps you keep all your job applications organized in one place.
 
-The **Fresher Job Search Tracker** provides a structured way to record job applications, monitor application progress, manage follow-ups, and view overall job-search activity through an interactive Excel dashboard.
+It allows you to track:
+
+* Companies you have applied to
+* Job roles
+* Application stages
+* Application status
+* Follow-up dates
+* Job sources
+* Notes and important updates
+
+The dashboard automatically reflects application updates, giving you a clear overview of your job search progress.
 
 ## ✨ Features
 
-* 📊 Interactive dashboard for application tracking
-* 🏢 Track company names and job roles
-* 📍 Record job locations
-* 📅 Record application dates and follow-up dates
-* 🔄 Track application stages
-* 📌 Track application status
-* 🌐 Record job sources
-* ⬇️ Dropdown menus for easier data entry
-* 🎨 Conditional formatting for quick status identification
+* 📊 Interactive dashboard
+* 📝 Job application tracking
+* 🔽 Dropdown menus for easy data entry
+* 📅 Follow-up date tracking
 * 📈 Application status distribution chart
-* 📋 Recent applications overview
+* 🎯 Recent applications section
 * 📖 Beginner-friendly instructions
-* 🔄 Dashboard updates automatically when application data changes
+* 🎨 Clean and professional Excel design
+* ⚡ Automatic dashboard updates using Excel formulas
+* 🧪 Demo data included for demonstration purposes
 
-## 🛠️ Excel Skills Demonstrated
+## 🎥 Demo Video
 
-* Excel formulas
-* Data validation
-* Dropdown lists
-* Conditional formatting
-* Dashboard design
-* Charts and data visualization
-* Data organization
-* Spreadsheet automation
-* User-friendly spreadsheet design
+[▶️ Watch the Fresher Job Search Tracker Demo](https://drive.google.com/file/d/1PhQI4QcQ8oVsoyltdYzcOHaFlT1CuWKW/view?usp=sharing)
 
-## 🖥️ Project Screenshots
+## 📸 Project Screenshots
 
 ### Dashboard
 
@@ -50,38 +49,54 @@ The **Fresher Job Search Tracker** provides a structured way to record job appli
 
 ![Instructions](Instructions.png)
 
+## 🛠️ Excel Skills Demonstrated
+
+This project demonstrates practical use of:
+
+* Excel formulas
+* Data validation
+* Dropdown lists
+* Conditional formatting
+* Charts
+* Dashboard design
+* Data organization
+* Spreadsheet formatting
+* Basic Excel automation
+
 ## 🎯 Purpose
 
-This project was created to solve a practical problem faced by job seekers: keeping track of multiple applications and their progress in an organized way.
-
-It also demonstrates how Microsoft Excel can be used to build a structured, interactive, and user-friendly productivity tool.
+This project was created as a practical digital-product project and portfolio project to demonstrate how Excel can be used to solve a real-world problem faced by fresh graduates during their job search.
 
 ## 📚 What I Learned
 
-Through this project, I strengthened my understanding of:
+Through this project, I gained practical experience in:
 
-* Designing structured Excel workbooks
-* Creating interactive dashboards
-* Using formulas to summarize data
-* Applying data validation and dropdown lists
-* Using conditional formatting
-* Presenting information through charts
-* Designing spreadsheets with the end user in mind
+* Designing a user-friendly Excel workbook
+* Creating interactive dropdowns
+* Using formulas to automate dashboard updates
+* Creating charts from application data
+* Structuring a digital product
+* Preparing a project for online presentation
+* Using GitHub to showcase a project
 
 ## 🚀 Future Improvements
 
-Possible future enhancements include:
+Possible future improvements include:
 
-* Automated follow-up reminders
-* Additional application analytics
-* More dashboard visualizations
-* Integration with external job-search data
-* Advanced filtering and reporting
+* Adding more dashboard insights
+* Adding interview preparation sections
+* Adding application analytics
+* Creating Google Sheets and Notion versions
+* Adding more customization options
 
-## 👩‍💻 Project Type
+## 📁 Project Type
 
-**Personal Project | Microsoft Excel | Data Tracking & Dashboard**
+**Excel Digital Product | Job Search Tracker | Portfolio Project**
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and share your feedback.
+### 👩‍💻 Created by
+
+**Madhumitha G.**
+
+B.E. Biomedical Engineering Graduate | Aspiring IT Professional & Sports Journalist
